@@ -1,0 +1,10 @@
+//识别开始时间
+StartTime = 20130101
+//识别结束时间
+EndTime = 20130101
+//输入文件路径
+input = '/Users/wangyishuo/Desktop/锋面识别项目/raw_data/'
+//输出文件路径
+output = '/Users/wangyishuo/Desktop/锋面识别项目/对接合并输出结果/'
+//选择识别类型, phy, ai
+analysisType = 'ai'
